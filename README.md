@@ -24,6 +24,9 @@ Nas duas IDE's é possível instalar um plugin para melhorar a visualização da
 
 [Cucumber for Java para IntelliJ](https://plugins.jetbrains.com/plugin/7212-cucumber-for-java/)
 
+[ChromeDriver](https://chromedriver.chromium.org/downloads)
+>> Versão do Driver correspondente a versão do navegador instalado na máquina
+
 >> 
 ### Installing
 
