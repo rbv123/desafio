@@ -43,6 +43,12 @@ As dependências abaixo são necessárias no arquivo pom.xml
 
 Os testes devem ser executados através do ChallengeRunner criado a partir do JUnit.
 
+## Reports and screenshots
+
+O relatório do teste bem como as evidências seguem nos paths informados abaixo, que podem sem encontrados dentro da pasta target também.
+Challenge\target\report-html\index.html
+Challenge\target\screenshots\make-a-purchase;must-make-purchase.jpg
+
 ### Break down into end to end tests
 
 O teste realiza o login no e-commerce My Store e então realiza uma compra.
